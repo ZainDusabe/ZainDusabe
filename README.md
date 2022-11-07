@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZainDusabe
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java
+- 🌱 I’m backend developer in java and django
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...ramazanidusabe8@gmail.com
 
